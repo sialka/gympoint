@@ -20,19 +20,19 @@
 
 Trata-se de um *servidor* que detém a base de dados de toda a aplicação e algumas regras de negócios.
 
-<a href="backend/README.md" style="font-size: 14px">Saiba mais</a>
+<a href="BACKEND/README.md" style="font-size: 14px">Saiba mais</a>
 
 ## :computer: Frontend (React JS)
 
 Trata-se de uma *página web*, onde o administrador da academia pode *gerenciar os alunos, planos, matriculas e responder a perguntas* dos alunos.
 
-<a href="frontend/README.md" style="font-size: 14px">Saiba mais</a>
+<a href="FRONTEND/README.md" style="font-size: 14px">Saiba mais</a>
 
 ## :iphone: Mobile (React Native)
 
 Trata-se da App para celulares **Android** onde o aluno faz o *check-in* e *perguntas* para a academia.
 
-<a href="mobile/README.md" style="font-size: 14px">Saiba mais</a>
+<a href="MOBILE/README.md" style="font-size: 14px">Saiba mais</a>
 
 <div align="center" style="color: #7159C1; background: #f0f0f0; margin-top: 50px; border-radius: 5px; padding: 15px 10px">
 <strong>Para os avaliadores</strong>
